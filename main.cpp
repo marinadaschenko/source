@@ -2,6 +2,7 @@
 #include <wx/filename.h>
 #include "mainframe.h"
 
+
 void DeleteDirectory(wxString filename) //удаляет весь каталог по указанному пути
 {
 	wxDir dir(filename);

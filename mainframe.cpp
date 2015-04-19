@@ -1,8 +1,5 @@
-
-
 #include "mainframe.h"
  
-
 #define wxID_PATH 1089
 #define wxID_CLEAN 1090
 

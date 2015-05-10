@@ -6,8 +6,6 @@
 #include <wx/wx.h>
 #include <wx/image.h>
  
-
-
 class MainFrame: public wxFrame {
 public:
     

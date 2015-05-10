@@ -58,9 +58,7 @@ BEGIN_EVENT_TABLE(MainFrame, wxFrame)
      
 END_EVENT_TABLE();
 
-
 // wxGlade: add MainFrame event handlers
-
 
 class MyApp: public wxApp {
 public:

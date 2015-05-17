@@ -1,7 +1,6 @@
  
 #include "mainframe.h"
  
-
 #define wxID_PATH 1089
 #define wxID_CLEAN 1090
 
@@ -49,7 +48,6 @@ void MainFrame::do_layout()
     Layout();
     
 }
-
 
 BEGIN_EVENT_TABLE(MainFrame, wxFrame)
      

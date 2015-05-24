@@ -25,7 +25,6 @@ protected:
     wxButton* btnPath;
     wxButton* btnClean;
   
-
     DECLARE_EVENT_TABLE();
 
 public:
